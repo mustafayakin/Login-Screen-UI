@@ -1,0 +1,11 @@
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\Mustafa\source\repos\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
